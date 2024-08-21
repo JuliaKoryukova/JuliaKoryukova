@@ -55,3 +55,9 @@ I am an aspiring Data Science specialist <img src="https://media.giphy.com/media
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>
 </div>
 
+---
+
+### :octocat: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?JuliaKoryukova&theme=dark&background=000000)](https://git.io/streak-stats)
+
